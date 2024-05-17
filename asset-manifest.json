@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatCard/static/css/main.d5289b2f.css",
+    "main.js": "/CatCard/static/js/main.5b0870e5.js",
+    "index.html": "/CatCard/index.html",
+    "main.d5289b2f.css.map": "/CatCard/static/css/main.d5289b2f.css.map",
+    "main.5b0870e5.js.map": "/CatCard/static/js/main.5b0870e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.5b0870e5.js"
+  ]
+}
